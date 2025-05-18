@@ -7,7 +7,9 @@
 
 <!--making matrix of zeros with torch.zeros(2,3) -->
 
+<!--making matrix of ones with torch.ones -->
 
+<!--using arange with torch.arange(5) -->
 
 
 
