@@ -12,7 +12,7 @@
 <!--using arange with torch.arange(5) -->
 
 <!-- linspace with torch.linspace -->
-
+<!-- logspace with torch.logspace -->
 
 
 
