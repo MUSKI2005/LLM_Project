@@ -25,6 +25,6 @@
 <!-- print("Torch Version:", torch.__version__) -->
 <!-- print("Device Name:", torch.cuda.get_device_name(0) if torch.cuda.is_available() else "No GPU") -->
 
-
+*Block Size =8*
 
 
