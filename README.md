@@ -14,7 +14,7 @@
 <!-- linspace with torch.linspace -->
 <!-- logspace with torch.logspace -->
 
-
+<!-- eye with torch.eye(5) -->
 
 
 
