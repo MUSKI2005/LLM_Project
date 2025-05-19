@@ -16,6 +16,8 @@
 
 <!-- eye with torch.eye(5) -->
 
+<!-- a with torch.empty((2, 3), dtype=torch.int64) -->
+
 
 
 
