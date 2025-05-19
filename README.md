@@ -21,7 +21,7 @@
 ## IMPORTING time
 ## import numpy as np
 
-
+<!-- print("CUDA Available:", torch.cuda.is_available()) -->
 
 
 
