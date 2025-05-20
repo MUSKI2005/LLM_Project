@@ -35,7 +35,7 @@
 <!-- zeros=torch.zeros(1,1) -->
 <!-- end_time=time.time() -->
 
-## navdia is not supported in windows 11
+## navdia is not supported in windows 11 so we are better using CPU instead if GPU
 
 
 
