@@ -28,3 +28,4 @@
 *Block Size equals to 8*
 *Batch size equals to 4*
 
+<!-- start_time=time.time() -->
