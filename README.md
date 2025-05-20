@@ -38,7 +38,7 @@
 ## navdia is not supported in windows 11 so we are better using CPU instead if GPU
 ## Therefore it might take some time
 
-
+<!-- elapsed_time=end_time-start_time -->
 
 
 
