@@ -47,3 +47,18 @@
 
 <!--  NOW for printing the 1st 200 texts -->
 <!-- print(text[:200]) -->
+
+<!-- now making a sorted array set for the characters -->
+
+
+
+
+
+
+
+
+
+
+
+
+
