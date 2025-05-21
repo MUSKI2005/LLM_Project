@@ -52,7 +52,7 @@
 <!-- chars=sorted(set(text)) -->
 
 <!-- print(chars) -->
-
+<!-- printing the length of chars -->
 
 
 
