@@ -49,7 +49,7 @@
 <!-- print(text[:200]) -->
 
 <!-- now making a sorted array set for the characters -->
-
+<!-- chars=sorted(set(text)) -->
 
 
 
