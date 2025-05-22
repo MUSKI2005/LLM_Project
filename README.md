@@ -64,3 +64,4 @@
 <!-- decode=lambda l: ''.join([int_to_string[i] for i in l])
  -->
 
+<!-- encoded hello with encode function -->
