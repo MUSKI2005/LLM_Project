@@ -68,7 +68,7 @@
 <!-- encoded_hello=encode('hello') -->
 
 <!-- decode hellousing decode function -->
-
+<!-- decoded_hello=decode(encoded_hello) -->
 
 
 
