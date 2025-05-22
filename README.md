@@ -61,4 +61,6 @@
 <!-- encode=lambda s:[string_to_int[c] for c in s] -->
 
 <!-- Decode using lambda function for string -->
+<!-- decode=lambda l: ''.join([int_to_string[i] for i in l])
+ -->
 
