@@ -60,5 +60,5 @@
 <!-- encoding using lambda function for string -->
 <!-- encode=lambda s:[string_to_int[c] for c in s] -->
 
-
+<!-- Decode using lambda function for string -->
 
