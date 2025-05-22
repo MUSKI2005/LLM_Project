@@ -70,7 +70,7 @@
 <!-- decode hellousing decode function -->
 <!-- decoded_hello=decode(encoded_hello) -->
 
-
+*print(decoded_hello)*
 
 
 
