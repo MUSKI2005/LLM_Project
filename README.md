@@ -55,7 +55,7 @@
 <!-- printing the length of chars -->
 <!-- print(len(chars)) -->
 
-
+*string to int conversion*
 
 
 
