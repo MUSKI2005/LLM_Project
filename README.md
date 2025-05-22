@@ -66,3 +66,15 @@
 
 <!-- encoded hello with encode function -->
 <!-- encoded_hello=encode('hello') -->
+
+<!-- decode hellousing decode function -->
+
+
+
+
+
+
+
+
+
+
