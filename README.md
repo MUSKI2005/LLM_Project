@@ -58,7 +58,7 @@
 *string to int conversion*
 *int_to_string*
 <!-- encoding using lambda function for string -->
-
+<!-- encode=lambda s:[string_to_int[c] for c in s] -->
 
 
 
