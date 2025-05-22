@@ -53,7 +53,7 @@
 
 <!-- print(chars) -->
 <!-- printing the length of chars -->
-
+<!-- print(len(chars)) -->
 
 
 
