@@ -74,7 +74,7 @@
 
 ## validation and training space
 <!-- EXAMPLE -->
-
+<!-- n=int(0.8*len(data)) -->
 
 
 
