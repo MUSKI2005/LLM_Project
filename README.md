@@ -79,3 +79,10 @@
 <!-- val_data=data[:n] -->
 
 *training is 80% and last 20 % for validation,  for the text corpus*
+*using training and validation splits
+*
+
+
+
+
+
