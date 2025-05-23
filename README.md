@@ -78,3 +78,4 @@
 <!-- train_data=data[:n] -->
 <!-- val_data=data[:n] -->
 
+*training is 80% and last 20 % for validation*
