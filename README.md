@@ -94,4 +94,5 @@
 <!-- running a loop for printing context and target -->
 
 <!-- for t in range(block_size): 
-      context=x[t+1]-->
+      context=x[t+1]
+      target=y[t]-->
