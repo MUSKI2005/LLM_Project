@@ -93,4 +93,5 @@
 
 <!-- running a loop for printing context and target -->
 
-<!-- for t in range(block_size): -->
+<!-- for t in range(block_size): 
+      context=x[t+1]-->
