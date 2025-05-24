@@ -84,5 +84,5 @@
 
 <!-- taking block size -->
 <!-- block_size=8 -->
-
+<!-- X is for training data set on block size-->
 
