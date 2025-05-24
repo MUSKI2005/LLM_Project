@@ -91,4 +91,4 @@
 <!-- y is for testing the data over blocksize -->
 <!-- y=train_data[1:block_size+1] -->
 
-
+<!-- running a loop for printing context and target -->
