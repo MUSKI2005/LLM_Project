@@ -84,5 +84,6 @@
 
 <!-- taking block size -->
 <!-- block_size=8 -->
-<!-- X is for training data set on block size-->
 
+<!-- X is for training data set on block size-->
+<!-- x=train_data[:block_size] -->
