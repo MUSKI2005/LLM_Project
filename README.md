@@ -87,3 +87,8 @@
 
 <!-- X is for training data set on block size-->
 <!-- x=train_data[:block_size] -->
+
+<!-- y is for testing the data over blocksize -->
+
+
+
