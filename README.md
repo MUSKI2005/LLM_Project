@@ -92,3 +92,5 @@
 <!-- y=train_data[1:block_size+1] -->
 
 <!-- running a loop for printing context and target -->
+
+<!-- for t in range(block_size): -->
