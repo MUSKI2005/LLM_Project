@@ -95,4 +95,7 @@
 
 <!-- for t in range(block_size): 
       context=x[t+1]
-      target=y[t]-->
+      target=y[t]
+      print('when input is ',context,'target is', target)-->
+
+      
